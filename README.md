@@ -23,3 +23,7 @@ Coming soon.
 
 Design Flaws is in each folder 
 =
+
+# Help Me Imporve !
+
+This project is purely Open Source. Help me make it better. Build it your own !
