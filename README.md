@@ -1,5 +1,5 @@
 # PicoPowerBoard
-PicoPower! Simple but yet powerful. the LITTLE TINY development board based on STM8L151F3 mc
+PicoPower! Simple but yet powerful. the LITTLE TINY development board based on STM8L151F3 mcu
 
 
 BOMs
@@ -20,3 +20,6 @@ Photos
 =
 
 Coming soon.
+
+Design Flaws is in each folder 
+=
