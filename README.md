@@ -14,7 +14,7 @@ BOMs
 7. STM8L151F3U6 x1
 8. Resistor 0Ohm x1 and 10kOhm x1 (both SMD 0603).
 9. MINI usb B female x1
-10. PCB from OSHpark (Don't need 2oz copper). : https://oshpark.com/shared_projects/MW0IfY9R
+10. PCB from OSHpark (Don't need 2oz copper). : https://oshpark.com/shared_projects/JKUopKGm
 
 Photos
 =
