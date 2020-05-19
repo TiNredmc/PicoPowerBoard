@@ -4,4 +4,4 @@ This project is purely Open Source. Grep my design / Make it better / And sell t
 
 # Design Flaws (Might be more But this is what I found) 
 
-Not yet
+1. Vcc vias touch GND of AMS 1117
